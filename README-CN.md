@@ -35,7 +35,7 @@
 ### Install Requirements
 - 暂时只支持Linux系统
 - Install the appropriate TensorFlow and tensorflow-addons versions according to CUDA version. 
-- The default is TensorFlow 2.6 and tensorflow-addons 0.14.0.
+- The default is TensorFlow 2.6 and tensorflow-addons 0.17.0.
 ```shell
 cd One-Shot-Voice-Cloning/TensorFlowTTS
 pip install . 
