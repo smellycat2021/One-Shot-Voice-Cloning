@@ -47,7 +47,7 @@ requirements = {
         "pysptk",
         "webrtcvad",
     ],
-    "setup": ["numpy", "pytest-runner",],
+    "setup": ["numpy", "pytest-runner","wheel"],
     "test": [
         "pytest>=3.3.0",
         "hacking>=1.1.0",
